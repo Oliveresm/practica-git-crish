@@ -5,4 +5,4 @@ print("hola mundo")
 #christian
 #oliver
 #yo y los inservibles
-#todo fue culpa de valerio valeria nos lo complico todo
+#todo fue culpa de valeria valeria nos lo complico todo
